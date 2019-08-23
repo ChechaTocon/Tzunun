@@ -8,6 +8,6 @@ namespace PaginaInicioWPF
 {
     class Class1
     {
-       //hola
+       //ChechitaWeco
     }
 }
